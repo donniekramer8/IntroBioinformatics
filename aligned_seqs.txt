@@ -1,0 +1,338 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.245)
+
+
+XP_023872592.1  ---------------------------MKPLHRANALQ---TFA-SLRASQSSKLPLNDV
+KAE8021259.1    ---------------------------MKPYR-TNALQ---ALA-SLRVCPPPNPPVI-V
+KAG7984996.1    ---------------------------MKPFRTTNALH---TLA-SFRPSQPPKHPFY-V
+XP_021298026.1  MPPFWR--------LGGL--------LMRPYRPNIALK---NVA-SLGPSQPPNSLRH-V
+EOY02945.1      ---------------------------MRPYRPSIALK---NVA-SLALSQPPNSLRH-V
+XP_022741310.1  ---------------------------MKPYRPTITLK---NLA-SLAPSKPSSSLQD-V
+PPD91210.1      ---------------------------MKPYRPAFALK---NFS-SLAPSKPPISVQN-V
+XP_034705703.1  ---------------------------MKPFR-PNALQNLTSLT-SLASLQSPKLRLN-V
+KAH7577128.1    MTKHSRPVNVFKTSAAGFALNNAIYYAMKPYR-TNALQ---SLASSITASQLPKANQN-V
+sp|Q8R3K3.1|PTC MAT-----------------------VFRPLE-------------RLRVPRPSLHPGV--
+                                           ::* .              :     .       
+
+XP_023872592.1  HHFIDARIIKTGFNPQTCRFNFRVNDFLQRGELSHARQLFDQMPQKNTISTNMMISGYVK
+KAE8021259.1    ENFIDARIIKTGFNPETCRSNFLVKNILERGELSQAREVFDQMPHKNTFSTNTMISGYVK
+KAG7984996.1    DTLIDARIVKTGFNLETCLSNFRVQNFLERGEFSEARALFDKMPHKNTISTNMIISGYVK
+XP_021298026.1  ETLVDARSIKTGFDRNTCRSNFMVESFLKQGNLWEARQLFDQMPNRNTVSTNMMISGYVK
+EOY02945.1      ETLVDARSIKTGFDRNTCLSNFMVESFLKQGNLWEARQLFDQMPNRNTVSTNMMISGYVK
+XP_022741310.1  QTFIDARSIKTGFDRKTCRSNFMVENFLRKGNMSEARQLFDQMPNRNTVSTNLMISGYIK
+PPD91210.1      ETFIDARSIKTGFDPNTCRSNFMVENLLRKGYLSKARQVFDQMPSRNTVSTNMMISGYVK
+XP_034705703.1  VNNIDARIVKTGFDPDTSRSNFRVGDFLKNGELSQARQLFEKMPHKNTVSTNMMISGYVK
+KAH7577128.1    DYFIDARIIKTGFDPDTCRSNFRVENLLRRGQLSQARQLFDQMPNKNTVSTNTLISGYVK
+sp|Q8R3K3.1|PTC ----------TGSGSACCRCTLGAKRYLLTDNIVKLKEF---------------------
+                          ** .   .  .: .   *  . : . : .                     
+
+XP_023872592.1  SGNLSYARELFDAMVERTAVTWTILIGGYSQSNQFREAFKLFAAMCRWGTEPDYITFATL
+KAE8021259.1    SGNLSYARELFDGMVERTAVTWTILIGGYSKCNQFREAFKIFSEMCRWGTEPDYVTFATL
+KAG7984996.1    SGNLSHARELFDGMIERTAVTWTILIGGYSRCNQFREAFKLFAGMHRWTTEPDDVTFATL
+XP_021298026.1  SGDLLRARQMFDAMLDRTAVTWTVLIGGYSQKNQFREAFKLFAEMRRRDTEPDYVTFATL
+EOY02945.1      SGDLLRARQMFDAMFDRTAVTWTILIGGYSQKNQFREAFKLFAEMRRRDTEPDYVTFATL
+XP_022741310.1  SGDLLRARQIFDTMLDRTAVSWTILIGAYSQKNQFREAFKLFAEMRRRDTEPDYVTFATL
+PPD91210.1      SGDLLKARHMFDTMLDRTAVTWTIIIGGYVQKSQFHEAFKLFAEMRRHDTQPDPVTFATL
+XP_034705703.1  SGNLGEARKLFDGMVERTAVTWTILIGGYSQLNQFKEAFELFVQMQRCGTEPDYVTFVTL
+KAH7577128.1    SGNLSSARELFNSMTDRTAVSWTILVGGYSHSNQFREAFTLFVEMRRQGSDPDSVTFATL
+sp|Q8R3K3.1|PTC --------------------------------------------------QHKKIAIAYN
+                                                                  : . :::.  
+
+XP_023872592.1  LSGCSDSETAN--EVVQVHAHIVKLGFDSTLMVCNSLVDAYCKTRCLDLACQLFQEMPER
+KAE8021259.1    LSGCSDSETAN--EVVQVHAQIIKWGHGSTLMVCNSLVDAYCKIHRLDFACQLFQEMSER
+KAG7984996.1    LSGCSDTETTN--EVVQVHSHIIKLGYHSTLMVCNSLIDAYCKTSRLDLAFQLFKEMPER
+XP_021298026.1  LSGCNDAGVDR--ELIQVHACVVKLGYESSLIICNSMVDSYCKTNHLDLACRVFNEMPER
+EOY02945.1      LSGCNDAGVDK--EFIQVHACVVKLGYESSLMICNSLVDSYCKTNHLDLACRVFNEMPER
+XP_022741310.1  LSGCNDAEVDK--ELIQVHACLLKLGYQSSLIICNSLVDSYCKTNHLDFACRVFIDMRER
+PPD91210.1      LSGCNDAEADN--ELVQVHGLVLKLGYHSSIIICNSLVDSYCKTDHLDFASRVFEDMPER
+XP_034705703.1  LSGCNGHEMGN--QITQVQAQIIKLGYDSRLIVGNTLVDSYCKSNRLDLACQLFKEMPEV
+KAH7577128.1    LSGCNDPDTSN--EVIQIHASVVKFGYTSTLIVCNSLVDSYCKIHRIDLACQLFREMSQR
+sp|Q8R3K3.1|PTC LPGTKEIYFRNLEEKLTQNKLILKEELKTLLYLCQSLED-------VQLA----------
+                *.* .     .  :    :  ::*    : : : ::: *       :::*          
+
+XP_023872592.1  DCVTLNAMITGFSRDGMNEDAIKLFMQMQRFGFKPSEFTFAAV---LCAGIGLDDMVFGQ
+KAE8021259.1    DSVTLNALITGFSRDGLNEDAIKLFMEMQHFGFKPSDFTFAAV---LCAVIGLDDIVLGQ
+KAG7984996.1    DSVTLNALITGLSRDGRNEDAIKLFMDMQSFGFKPSEFTFAAV---LCAGVGFDDIVFGM
+XP_021298026.1  DSVSINALITGFSKDGLYEDAIALFLEMQNFGYKPSDFTFAGV---LSAGIGLNALAFGQ
+EOY02945.1      DSVSINALITGFSKDGLYEDAISLFLEMQNFGYKPSDFTFAGV---LSAGIGLNALAFGK
+XP_022741310.1  DSVSFNALITGFAKDGLNEDAITLFLEMQNLGFKPSDFTFSGV---LSAAIRLNDLAFGQ
+PPD91210.1      DSVSFNALINGFAKDGLTEDAITLFLQMQNLGFKPSDFTFAGV---LSAAIRLNDLAFGQ
+XP_034705703.1  DSVSYNAMITGYSKDGLDEKAVNLFVEMQNSGLKPTEFTFAAV---LCANIGLDDIVLGQ
+KAH7577128.1    DSVTFNALITGYSKEGLNEEAIKLFMEMQNLGFKPSDFTFAAA---LCAGIRLDDIALGK
+sp|Q8R3K3.1|PTC -------------------KAVIYRYHAENKNFTLGEYKFGPVFMRLCYELDLED-----
+                                   .*:    . :  . .  ::.*. .   *.  : ::      
+
+XP_023872592.1  QIHSFVVKTNFVWNVFVGNALLDFYSKHSRVLEARRFFDEMPELDGVSYNVIISGYAWDG
+KAE8021259.1    QVHAFVVKTNNVWNVFVGNALLDFYSKHGRVLEARKLFDEMPELDCVSYNVIITSYAWDG
+KAG7984996.1    QVHAFVVKTNFVWNVFVGNALLDFYSKHDRVVDARKLFHEMPELDGVSYNVIITAHAWDG
+XP_021298026.1  QIHGLLVKTGFVWNVFVANALLDFYSKHDCLVEARRFFDEMPNLDGISYNVIITCYAWFG
+EOY02945.1      QIHGLLVKTGFVWNVFVANALLDFYSKHDCLVEARRFFDEMPNLDGISYNVIITCYVWFG
+XP_022741310.1  QIHGFLVKTGFVWNVFVGNALLDFYSKHDRLVEARKFFDDMPDLDGISYNVIITCHAWFG
+PPD91210.1      QIHGFLVKTGFVGNVFVGNALLDFYSKYDCLVEAGKLFDEMPDLDGISYNVIITCYAWSG
+XP_034705703.1  QIHSFVTKTNFVWNVFVSNALLDFYSKHDSVIDARKLFDEMPEQDGVSYNVIISGYAWDG
+KAH7577128.1    LIHSFVVKANFVGNVFVGNALLDFYSKHDCVVEARNFFDEMPVVDGVSYNVMITCYAWNE
+sp|Q8R3K3.1|PTC ------------------SAVELVRDKH-----LQGFF-----LDSTSFNILMDMLFTKG
+                                  .*:  . .*:        :*      *  *:*:::       
+
+XP_023872592.1  QIKESLDLFREL--QSTRFDRRQFPLATLLSIAANTLDLEMGRQIHSQAIVSTADSEVLV
+KAE8021259.1    QPKESLGLFREL--QSTRFDRRQFPFATLLSIAANTSDLEMGRQIHSQTIVLTADSEVQV
+KAG7984996.1    QLKESLDFFREL--QFTKFDRRQFPFATLLSIAANTLNLGLGRQIHSQAVVSTADSEVLV
+XP_021298026.1  EHEKAVRLFREL--QFTQFNQRQFPFATMLSIAANTLDLQMGQQIHSLAIVTTADSELLV
+EOY02945.1      EHEEAVRLFREL--QFTRFNQRQFPFATMLSIAANTLDLQMGQQIHSLAIVTTADSELLV
+XP_022741310.1  QHEEAIRLFREL--QFTHFNRRQFPFATMLSIAANALDLQMGQQIHSLAIVTTADSELLV
+PPD91210.1      QHEEAISLFREL--QFTGFKRRQFPFATMLSIAANVLDLRMGQQIHTLAIVTTADSELVV
+XP_034705703.1  KHKDAFDLFREL--QFTTFDRKQFPFATMLSIASNTLDWEMGRQIHAQTIVTTADSEILV
+KAH7577128.1    QYKESLRLFREL--QLTRFDRRQFPFSTLLSIAANTLSLQIGRQIHSQAIVTTADSKLQV
+sp|Q8R3K3.1|PTC KYERALQVLIEMKNQDVRFSKETYILAFAICYKLNTLE--------SLKICTTLREEALI
+                : : :. .: *:  * . *.:. : ::  :.   *. .        :  :  *  .:  :
+
+XP_023872592.1  GNSLVDVYAKC---------GRFEEAKKIFANLAH-KSTVPWTAMISGYVQKGLHEESLK
+KAE8021259.1    GNSLVDMYAKC---------DRFEDAKKIFANLAH-KSTVPWTAMISGYVQKGLHEEGLK
+KAG7984996.1    GNSLVDMYAKC---------GRFEEAEKIFENLAH-KTTVPWTAMISGYVQMGHHEEGPK
+XP_021298026.1  GNSLVDMYAKC---------GRFEEAETIFRSLAH-RSTVPWTALISGYVQKGFHEEGLN
+EOY02945.1      GNSLVDMYAKC---------GRFEEAETIFRSLAH-RSTVPWTALISGYVQKGFHEEGLN
+XP_022741310.1  GNSLVDMYAKC---------GRFEEAEKIFRSLAK-RSTVPWTALISGYVQKEFYEEGLN
+PPD91210.1      GNSLVDMYAKC---------GRFEEAEKIFRSLAK-RSTVPWTAIISGYVQRGFHEEGLN
+XP_034705703.1  GNSLVDMYAKC---------GKFEEAEMIFTNLVH-RSAVPWTAMISAYVQKGFYEEGLQ
+KAH7577128.1    GNSLVDMYAKC---------GRFEEARKIFANLNR-ISTVPWTAMISGYVQTGHIEEGLK
+sp|Q8R3K3.1|PTC KGDIICRRAYCFVVALALNKNQLKNAVSIFSQIVNPESIVCINLNILIHIQSNMLESLLK
+                 ..::   * *         .::::*  ** .: .  : *  .  *  ::*    *.  :
+
+XP_023872592.1  LFNEMRRTNVSADQATFASILRASANLASLSLGKQLHSFVIRSGFMSNVFSG--SALVDM
+KAE8021259.1    LFNEMHRTNVSADQATFASILSASANLASLSLGKQLHSFVVRSGFLSNVYCG--SAVVDM
+KAG7984996.1    LFNEMRRTNVSADQATFASVLSASANLASLSLGKQLHSTVIRSGFMSNVFSG--SALVDM
+XP_021298026.1  LFNEMHKAGVRADQATFASILKASANLASLSLGKQLHSFVIRSGFMSNVFSG--SGLLDM
+EOY02945.1      LFNEMHKAGVRADQATFASMLKASANLASLSLGKQLHSFVIRTGFMSNVFSG--SALLDM
+XP_022741310.1  LFNEMHKAGVRPDQATFASILKASANLASLSLGKQLHSFVIRSGFMSNVFSG--SALLDM
+PPD91210.1      LFNEMHKAGVRADQATFASILKASANLASLSLGKQIHSFVIRSGYMSNVFSG--SALLDM
+XP_034705703.1  LFNKMRQASVIADQATFATLLRASASIASLSLGKQLHSFIIKSGFMSNVFSG--SALLDV
+KAH7577128.1    LFNQMRRADVSADQSTFATILKATANLASLSLGKQLHSFLIRSGFMSNVFSG--SALLDM
+sp|Q8R3K3.1|PTC ILED--------------------------SLDTNLSKFVRRHTFSEEVLAKVREKLKDS
+                :::.                          **..:: . : :  : .:* .   . : * 
+
+XP_023872592.1  YAKCGSLKDALQSFKEMPERNPVSWNALISAYAQNGDGVGTLMSFEQMVQSGFQPDSVSF
+KAE8021259.1    YAKSGSLKDALQSFQEMPDRNPVTWNALISAYAQNGDGEGTLKSFDQMIQSGFQPDSVSF
+KAG7984996.1    YAKCGSLKDALQSFQEMPERNSVSWNALISAYAQNGDGEGTLRSFEEMKRSGFQPDSVSF
+XP_021298026.1  YAKCGSIKDAIQLFQDMPERNIVSWNALISAYAQNGDGEATLDSFEKMVQSGFQPDSVSF
+EOY02945.1      YAKCGSIKDAIQLFRDMPERNIVSWNALISAYAQNGDGEATLDSFEKMVQSGFQPDSVSF
+XP_022741310.1  YAKCGSIKDAIRLFQDMPERNIVSWNALISAHAQNGDGEATLDSFEKMVQSGFQPDSVSF
+PPD91210.1      YAKCGSIKDSIQLFQDMSERNIVSWNALISAHAQNGDAKATLDSFEKMVQSGFQPDSVSF
+XP_034705703.1  YAKCGSIKDAVQTFQEMPDRNIVSWNAMISAYAQNGEAEATLKSFKEMVLSGLQPDSVSF
+KAH7577128.1    YAKCGSVKDAILIFQEMPARNIVSWNALISAYAQNGDGEATLRSFEEMILSGFQPDSVSF
+sp|Q8R3K3.1|PTC PALIARFDEVYGKLHVNGQITVHSLDALLCHVPRDKRSNLLLLKKRAVSHRTLQPLSRSL
+                 *  . ..:    ::     .  : :*::.  .::  .   * .   :    :** * *:
+
+XP_023872592.1  LSVLTACSHCGHIDKALQYFNSMTQVYKLVPKKEHYASLVDVLCRSGRFDEAEKLMAQMP
+KAE8021259.1    LSVLTACSHCGLVDEALQYFKSMTQVYKLAPRGLHYASIVDVLCRSGQFDKAEKLMEEMP
+KAG7984996.1    LSVLTACSHCGLVGEALEYFNSMTQVYKLAPKGPHYASMVDVLCRSGRFDEAEKLMARMP
+XP_021298026.1  LSVLSACSHCGLVQEGLRYFRSMTQSHKLVPKKEHYASMVDMFCRSGRFNEAEKLMAEMP
+EOY02945.1      LSVLSACSHCGLVQEGLRYFRSMTQSHKLVPKKEHYASMVDMFCRSGQFNEAEKLMAEMP
+XP_022741310.1  LSVLSACSHCGLVQEGLRYFRSMTQIYNRVPKKEHYASMVDMLCRSGRFNQAEKLIADMR
+PPD91210.1      LSVLSACSHCGLVQEGLRYFRTMTRIHNLVPKKEHYASMVDMLCRSGQFNEAEKLMDEMP
+XP_034705703.1  LSVLSACSHSGLVEEGLWHFNSMTQIYKLDPRREHYASVVDMLCRSGRFNEAEKLMAEMP
+KAH7577128.1    LSVLSACSHSGLVEEGLRYFNIMNRKYKLTPKKEHYASVIDMFCRRGHFDEAEKWMAEMP
+sp|Q8R3K3.1|PTC LT----------------------------------------------------------
+                *:                                                          
+
+XP_023872592.1  FEPDEIMWSSVLNSCRIHKNQELAKKAADQLFSMEELRDAAPYVNMSNIYAAVGQWDNVG
+KAE8021259.1    IKPDEIMWSSVLNSCRIHKNQELAKKAADQLFNMADLKDAAPYVNMSNIYAAAGQWDSVG
+KAG7984996.1    IEADEIIWSSVLNSCRIHKNQELAKKAADKLFNMEELRDAAPYVNMSNIYAAAGQWESVG
+XP_021298026.1  FDPDEIMWSSVLNSCRIHKNEELARKAADQLFRMEVLRDAAAYVSMSNIYAASGQWDNVG
+EOY02945.1      FDPDEIMWSSVLNSCRIHKNEELARKAADQLFRMEVLRDAAAYVSMSNIYAAAGQWDNVG
+XP_022741310.1  FDPDEIMWSSVLNSCRIHKNQELARKAADQLFRMEMLRDAAAYVSMSNIYAAAGQWENVG
+PPD91210.1      FDPDEIMWSSVLNSCRIHKNQELARKAADQLFSMEVLRDAAAYVSMSNIYAAAGQWDNVG
+XP_034705703.1  IDPDEIMWSSVLNACKIHKNQELARRAADRLFNMEELRDAAPYVNMSNIYAAAGQWENVS
+KAH7577128.1    FEPDEIIWSSVLNSCRIHKNQELAKKVADQLFKMEKLRDAAPYVSMSNIYAVAGQWDSVS
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  KVKKAMRDRGVKKVPAYSWVEIEHKNHVFSANDKSHPQMGDIMRKIDMLAKQMEKEGYKP
+KAE8021259.1    MVKKAMRERGVKKAPAYSWVEIKHKIHVFSANDKSHPQMGEIMRKIDMLVKQMEKEGYKP
+KAG7984996.1    KVKKAMRDRGVKKVPAYSWVEIKHKIHVFSANDKSHPQMGEIMRRIDMLGKQMEKEGYEP
+XP_021298026.1  KVKKAMRDRGIRKVPAYSWVEIRHKVHVFSANDMLHPQREEIRKKIDMLSEQMEKEGYKP
+EOY02945.1      KMKKAMRERGIRKVPAYSWVEIRHKVHVFSANDMLHPQREEIRKKIDMLSEQMEKEGYKP
+XP_022741310.1  KVKKAMRERGIRKVPAYSWVEIRHKVHVFSANDMLHPQMEEIRKKIDMFSIQMEKEGYKP
+PPD91210.1      KVKKAMRERGIRKVPAYSWVEIRHKLHVFSANDMLHPQMEEIRKKIEMLSKQMEKEGYKP
+XP_034705703.1  KVHKAMRDRGVKKLPAYSWVEIKHETHMFSANDRCHPQIEETRKKIDMLTKTMEELGYKP
+KAH7577128.1    KVKKAMRDRGVKKVPACSWVEAKNSVHVFTANENSHPKMEQIRRKIEMLMKQMEKEGYKP
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  DTSCALHNVDEEIKAESLKYHSERLAIAYALISTPEGSPILVMKNLRACTDCHAAIKVIS
+KAE8021259.1    DTSCVLHNVDEEIKIESLKSHSERLAIAFALISTPEGSPILVMKNLRACTDCHAAIKLIS
+KAG7984996.1    DTRCALHNVDEELKVESLKYHSERLAIAFALISTPQGSRILVMKNLRACTDCHAAIKIIS
+XP_021298026.1  DTGCALHDVDEKIKIESLKYHSERLAIAFALISTPEGSPILVMKNLRACTDCHAAIKVIS
+EOY02945.1      DTGCALHDVDEKIKIESLKYHSERLAIAFALISTPEGSPILVMKNLRACTDCHAAIKVIS
+XP_022741310.1  DTSCALHDVDEKIKIESLKYHSERLAIAYALMSTSEGSPILVMKNLRACTDCHAAIKVIS
+PPD91210.1      DTSCALHDVDENIKIESLKYHSERLAIAFALISTPEGSPILVIKNLRACTDCHAAIKVIS
+XP_034705703.1  DTSCALHNEDEKFKVQSLKYHSERLAIAFALISTPEGSPILVMKNLRACIDCHAAIKVIS
+KAH7577128.1    DTSCALHDEDEEIKIESLKYHSERLAIAFALISTPKGSPILVMKNLRACADCHAAIKLIS
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  RIVAREITVRDSSRFHHFRDGFCSCGDYW-------------------------------
+KAE8021259.1    KIVAREITVRDSSRFHHFREGFCSCGDYW-------------------------------
+KAG7984996.1    KIVGREITVRDSSRFHHFRDGFCSCGDYW-------------------------------
+XP_021298026.1  KIVGREITVRDSSRFHHFKDGICSCGDYW-------------------------------
+EOY02945.1      KIVGREITVRDSSRFHHFKDGICSCGDYW-------------------------------
+XP_022741310.1  KIVRREITVRDSSRFHHFKDGICSCGDYW-------------------------------
+PPD91210.1      KIIRREITVRDSSRFHHFKDGICSCGDYW-------------------------------
+XP_034705703.1  KIVGREITVRDSTRFHHFRDGFCSCGDFW-------------------------------
+KAH7577128.1    KIVRREITVRDSSRFHHFKDGFCSCGDYWVFPAEACETIGGEACLADMYPEVKIKPDARN
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    DAAIIASEAVDREYFEYNEAKKASQLPKANQNVDYFIDARIIKTGFDPDTCRSNFRVENL
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    LRRGQLSQARQLFDQMPNKNTVSTNTLISGYVKSGNLSSARELFDSMTDRTVVSWTILVG
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    GYSHSNQFREAFTLFVEMRRQGSDPDSVTFATLLSGCNDPDTSIEVIQVHASVVKFGYTS
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    ILIVCNSLVDSYCKIHRIDLACQLFREMSERDSVTCNAFITGLDDIVLGQLIHSFVVKAN
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    FVGNVFVGNALLDFYSKHDCVVEARNFFDEMPVVNGVSYNVMITCYAWNEQYKESLRLFR
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    ELQLTRFDRRQFPFSTLLSIAADTLSLQIGRQIHSQAIVTTADFKLRVGNSLVDMYAKCG
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    RIEEARKIFANLNRISTVTWTAMISGYVPTGHIEEGLKLFNQMHRADVSADQFILATILK
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    ATANLASVSLGKQLNSFLIRSGFMLAVHSWIWFQPDSVSFRSVLSACSHSGLVEEGLHYL
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    NIMNRKYKLTPKKEHYASVIDMFCQRGRFDEAEKWMDEMPFEPDEIIWSSVLNSCRIHKN
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    QELAKKAADQLFKMEKLRDAAPYVSMPNIYAVAGQWDSVSKVRKAMKDRGVKKVPACSLV
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    EAKKSVHVFTANENSHPKMEQIRRKIEMLMKQMEKEGYKPDTSCALHEEDEEIKIESLKY
+sp|Q8R3K3.1|PTC ------------------------------------------------------------
+                                                                            
+
+XP_023872592.1  ------------------------------------------------------------
+KAE8021259.1    ------------------------------------------------------------
+KAG7984996.1    ------------------------------------------------------------
+XP_021298026.1  ------------------------------------------------------------
+EOY02945.1      ------------------------------------------------------------
+XP_022741310.1  ------------------------------------------------------------
+PPD91210.1      ------------------------------------------------------------
+XP_034705703.1  ------------------------------------------------------------
+KAH7577128.1    HSERLAIAFALISTPEGSPILVMKNLRACADSHAAIKLISKIVRREITVRDSSRFHHFKD
+sp|Q8R3K3.1|PTC ---------------------------------------------E--------------
+                                                                            
+
+XP_023872592.1  ---------
+KAE8021259.1    ---------
+KAG7984996.1    ---------
+XP_021298026.1  ---------
+EOY02945.1      ---------
+XP_022741310.1  ---------
+PPD91210.1      ---------
+XP_034705703.1  ---------
+KAH7577128.1    GFCSCGDYW
+sp|Q8R3K3.1|PTC ---------
+                         
